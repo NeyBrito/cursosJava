@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+	"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+	"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+ 
+<hibernate-configuration>
+	<session-factory>
+		<!-- Configurações para a conexão com o Bando de Dados -->
+		<property name="connection.driver_class">net.ucanaccess.jdbc.UcanaccessDriver</property>
+		<property name="connection.url">jdbc:ucanaccess://./database.accdb</property>
+		
+		<!-- Informações de Acesso (autenticação) -->
+		<property name="connection.usename"></property>
+		<property name="connection.password"></property>
+
+		<!-- Pool de conexão JDBC (use the built-in) -->
+		<property name="connection.pool_size">1</property>
+
+		<!-- Dialeto SQL -->
+		<property name="dialect">org.hibernate.dialect.SQLServerDialect</property>
+
+		<!-- Habilita o gerenciamento automático de sessões pelo Hibernate -->
+		<property name="current_session_context_class">thread</property>
+
+		<!-- Disabilita o cache de segundo-nível -->
+		<property name="cache.provider_class">org.hibernate.cache.NoCacheProvider</property>
+
+		<!-- Eco de todas as instruções SQL executadas na saída padrão (stdout) -->
+		<property name="show_sql">false</property>
+
+		<!-- Criação ou atualização automática do esquema do BD na incialização -->
+		<!-- Os possíveis valores são: validate | update | create | create-drop -->
+		<!-- 		     
+		<property name="hbm2ddl.auto">update</property> !! Esta feature NÃO É SUPORTANDA pelo driver UCanAccess !!
+		-->
+
+		<!-- Mapping files -->
+		<mapping resource="persistencia/hibernate/usuario.hbm.xml" />
+		<mapping resource="persistencia/hibernate/tarefa.hbm.xml" />
+
+	</session-factory>
+</hibernate-configuration>

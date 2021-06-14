@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+	"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+	"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+ 
+<hibernate-configuration>
+	<session-factory>
+		<!-- Configurações do banco de dados -->
+		<property name="connection.driver_class">net.ucanaccess.jdbc.UcanaccessDriver</property>
+		<property name="connection.url">jdbc:ucanaccess://./database.accdb</property>
+
+		<!-- Dialeto SQL utilizado por este banco -->
+		<property name="dialect">org.hibernate.dialect.SQLServerDialect</property>
+
+		<!-- Arquivos de mapeamento -->
+		<mapping resource="usuario.hbm.xml" />
+		<mapping resource="tarefa.hbm.xml" />
+
+	</session-factory>
+</hibernate-configuration>

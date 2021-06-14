@@ -1,0 +1,86 @@
+import java.awt.*;
+import java.awt.event.*;
+
+
+public class Calculadora extends Frame{
+	private Button btn0,btn1,btn2,btn3,btn4,btn5,btn6,btn7,btn8,btn9;
+	private Button btnVir,btnC,btnCE,btnAdc,btnSub,btnDiv,btnMult,btnIgual;
+	private TextField tfVisor;
+	
+	/*Construtor*/
+	public Calculadora() {
+		btn0 = new Button("0");
+		btn1 = new Button("1");
+		btn2 = new Button("2");
+		btn3 = new Button("3");
+		btn4 = new Button("4");
+		btn5 = new Button("5");
+		btn6 = new Button("6");
+		btn7 = new Button("7");
+		btn8 = new Button("8");
+		btn9 = new Button("9");
+		btnVir = new Button(",");
+		btnC = new Button("C");
+		btnCE = new Button("CE");
+		btnAdc = new Button("+");
+		btnSub = new Button("-");
+		btnDiv = new Button("/");
+		btnMult = new Button("x");
+		btnIgual = new Button("=");
+		tfVisor = new TextField();
+		
+		/*Definindo priedades*/
+		btn0.setActionCommand("0");
+		btn2.setActionCommand("1");
+		btn3.setActionCommand("2");
+		btn4.setActionCommand("3");
+		btn5.setActionCommand("4");
+		btn6.setActionCommand("5");
+		btn7.setActionCommand("6");
+		btn8.setActionCommand("7");
+		btn9.setActionCommand("8");
+		btnVir.setActionCommand("9");
+		btnC.setActionCommand("Apagar");
+		btnCE.setActionCommand("Apagar Ant");
+		btnAdc.setActionCommand("Adição");
+		btnSub.setActionCommand("Subtração");
+		btnDiv.setActionCommand("Divisão");
+		btnMult.setActionCommand("Multiplicação");
+		btnIgual.setActionCommand("Igual");
+		
+		/*prp.relacionadas a janela*/
+    	this.setTitle("Calculadora");
+    	this.setSize(225,400);
+    	this.setResizable(true);
+		
+		/*Posicionando container*/
+		this.setLayout(null);
+		this.add(btn0);
+		this.add(btn2);
+		this.add(btn3);
+		this.add(btn4);
+		this.add(btn5);
+		this.add(btn6);
+		this.add(btn7);
+		this.add(btn8);
+		this.add(btn9);
+		this.add(btnC);
+		this.add(btnCE);
+		this.add(btnVir);
+		this.add(btnAdc);
+		this.add(btnSub);
+		this.add(btnDiv);
+		this.add(btnMult);
+		this.add(btnIgual);
+		this.add(tfVisor);
+		
+		tfVisor.setBounds(20,50,185,30);
+		tfVisor.setCaretPosition(183);
+	
+		
+		
+	}
+
+
+
+}

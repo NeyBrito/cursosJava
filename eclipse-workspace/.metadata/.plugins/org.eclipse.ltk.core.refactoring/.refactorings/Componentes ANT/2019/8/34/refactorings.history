@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;JavaANT.UIComponentesANT&apos; to &apos;UIComponentesAWT&apos;&#x0D;&#x0A;- Original project: &apos;Componentes ANT&apos;&#x0D;&#x0A;- Original element: &apos;JavaANT.UIComponentesANT&apos;&#x0D;&#x0A;- Renamed element: &apos;JavaANT.UIComponentesAWT&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;UIComponentesANT&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;JavaANT{UIComponentesANT.java[UIComponentesANT" matchStrategy="1" name="UIComponentesAWT" qualified="false" references="true" similarDeclarations="false" stamp="1566342145962" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="HibernateExemplo/src"/>
+	<classpathentry kind="lib" path="HibernateExemplo/libs/hibernate/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="HibernateExemplo/libs/hibernate/cdi-api-1.1.jar"/>
+	<classpathentry kind="lib" path="HibernateExemplo/libs/hibernate/classmate-1.3.0.jar"/>
+	<classpathentry kind="lib" path="HibernateExemplo/libs/hibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="HibernateExemplo/libs/hibernate/el-api-2.2.jar"/>
+	<classpathentry kind="lib" path="HibernateExemplo/libs/hibernate/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="HibernateExemplo/libs/hibernate/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="HibernateExemplo/libs/hibernate/hibernate-core-5.2.3.Final.jar" sourcepath="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/hibernate/hibernate-core-5.2.3.Final.jar"/>
+	<classpathentry kind="lib" path="HibernateExemplo/libs/hibernate/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="HibernateExemplo/libs/hibernate/jandex-2.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="HibernateExemplo/libs/hibernate/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="HibernateExemplo/libs/hibernate/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="HibernateExemplo/libs/hibernate/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar"/>
+	<classpathentry kind="lib" path="HibernateExemplo/libs/hibernate/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="HibernateExemplo/libs/hibernate/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="HibernateExemplo/libs/ucanaccess/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="HibernateExemplo/libs/ucanaccess/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="HibernateExemplo/libs/ucanaccess/hsqldb.jar"/>
+	<classpathentry kind="lib" path="HibernateExemplo/libs/ucanaccess/jackcess-2.1.11.jar"/>
+	<classpathentry kind="lib" path="HibernateExemplo/libs/ucanaccess/ucanaccess-4.0.4.jar" sourcepath="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/ucanaccess/ucanaccess-4.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/hibernate/antlr-2.7.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/hibernate/cdi-api-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/hibernate/classmate-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/hibernate/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/hibernate/el-api-2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/hibernate/geronimo-jta_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/hibernate/hibernate-commons-annotations-5.0.1.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/hibernate/hibernate-core-5.2.3.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/hibernate/hibernate-jpa-2.1-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/hibernate/jandex-2.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/hibernate/javassist-3.20.0-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/hibernate/javax.inject-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/hibernate/jboss-interceptors-api_1.1_spec-1.0.0.Beta1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/hibernate/jboss-logging-3.3.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/hibernate/jsr250-api-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/ucanaccess/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/ucanaccess/commons-logging-1.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/ucanaccess/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/ucanaccess/jackcess-2.1.11.jar"/>
+	<classpathentry kind="lib" path="C:/Users/782405/eclipse-workspace/HibernateExemplo/HibernateExemplo/libs/ucanaccess/ucanaccess-4.0.4.jar"/>
+	<classpathentry kind="output" path="HibernateExemplo/bin"/>
+</classpath>

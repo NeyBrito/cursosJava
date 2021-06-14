@@ -1,0 +1,52 @@
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+import java.sql.Statement;
+
+public class BD {
+
+	private Connection conexao = null;
+
+	public void conectar() {
+		if (conexao == null) {
+			try {
+				Class.forName("net.ucanaccess.jdbc.UcanaccessDriver");
+				String url = "jdbc:ucanaccess://./Agenda.mdb";
+				conexao = DriverManager.getConnection(url);
+			} catch (ClassNotFoundException e) {
+				System.err.println("Problemas ao carregar o driver: " + e.getMessage());
+			} catch (SQLException e) {
+				System.err.println("Problemas ao abrir a conexao com o BD: " + e.getMessage());
+			}
+		}
+	}
+
+	public boolean inserir(Contato c) {
+		try {
+			Statement st = conexao.createStatement();
+			String sqlInserir = "INSERT INTO " + "contatos(nome, email, telefone) " + "VALUES('" + c.getNome() + "','"
+					+ c.getEmail() + "','" + c.getTelefone() + "')";
+			st.execute(sqlInserir);
+			st.close();
+			return true;
+		} catch (SQLException e) {
+			System.err.println(e.getMessage());
+			return false;
+		}
+	}
+
+	public boolean remover(Contato r) {
+		return true;
+	}
+
+	public void desconectar() {
+		if (conexao != null) {
+			try {
+				conexao.close();
+			} catch (SQLException e) {
+				System.err.println(e.getMessage());
+			}
+		}
+	}
+}

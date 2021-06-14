@@ -1,0 +1,12 @@
+import JavaANT.UIComponentesAWT;
+
+public class PgrComp {
+
+	public static void main(String[] args) {
+		UICompAWT janela = new UICompAWT();
+		janela.setVisible(true);	
+		
+
+	}
+
+}

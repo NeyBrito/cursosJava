@@ -1,0 +1,41 @@
+
+import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
+
+public class UICompAWT extends Frame implements ActionListener {
+	/*Declaração de Componentes*/
+	
+	private Label lblNome,lblGenero, lblMsg;
+	private TextField tfNome;
+
+	
+    public UICompAWT() {
+    	/*Instanciação*/
+    	lblNome = new Label("Nome:");
+    	lblGenero = new Label("Genero:");
+    	lblMsg = new Label("Mensagem:");
+
+    	
+    	/*Posicionamento*/
+    	lblNome.setBounds(20,50,60,20);
+    	tfNome.setBounds(90,50,180,20);
+    
+    	
+    	/*prp.relacionadas a janela*/
+    	this.setTitle("Componentes AWT");
+    	this.setSize(300,380);
+    	this.setLayout(null);
+    	
+    	/*Adionando componentes ao Container*/
+    	this.add(lblNome);
+    	this.add(tfNome);
+    
+    	
+    	/* Tratar eventos*/
+//    	btnEnviar.addActionListener();
+    	
+    	
+    }
+
+}

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+	"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+	"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+ 
+<hibernate-configuration>
+	<session-factory>
+		<!-- Configurações para a conexão com o bando de dados -->
+		<property name="connection.driver_class">net.ucanaccess.jdbc.UcanaccessDriver</property>
+		<property name="connection.url">jdbc:ucanaccess://./database.accdb</property>
+
+		<!-- JDBC connection pool (use the built-in) -->
+		<property name="connection.pool_size">1</property>
+
+		<!-- Dialeto SQL -->
+		<property name="dialect">org.hibernate.dialect.SQLServerDialect</property>
+
+		<!-- Habita gerenciamento automático de contexto de seção do Hibernate -->
+		<property name="current_session_context_class">thread</property>
+
+		<!-- Disabilita o cache de segundo nível -->
+		<property name="cache.provider_class">org.hibernate.cache.NoCacheProvider</property>
+
+		<!-- Exibe na saída padrão (stdout) todas as instruções SQL executadas -->
+		<property name="show_sql">true</property>
+
+		<!-- Arquivos de mapeamento -->
+		<mapping resource="usuario.hbm.xml" />
+
+	</session-factory>
+</hibernate-configuration>

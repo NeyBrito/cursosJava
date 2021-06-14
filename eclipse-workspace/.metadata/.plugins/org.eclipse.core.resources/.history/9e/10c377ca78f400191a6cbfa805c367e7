@@ -1,0 +1,14 @@
+package com.ney.struturadados.vetor.Vetor;
+
+public class Vetor {
+	public static void main(String[] args) {
+		Vetor vetor = new Vetor();
+		vetor.adiciona("Elemento 1");
+	}
+
+	private void adiciona(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+
+}

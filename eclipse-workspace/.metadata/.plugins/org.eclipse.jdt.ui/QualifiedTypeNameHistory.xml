@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.awt.ActiveEvent"/>
+    <fullyQualifiedTypeName name="java.awt.Label"/>
+    <fullyQualifiedTypeName name="java.awt.Checkbox"/>
+    <fullyQualifiedTypeName name="java.awt.event.ActionListener"/>
+    <fullyQualifiedTypeName name="javax.swing.text.BadLocationException"/>
+    <fullyQualifiedTypeName name="javax.print.attribute.AttributeSet"/>
+    <fullyQualifiedTypeName name="com.sun.xml.internal.bind.v2.schemagen.xmlschema.List"/>
+    <fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+    <fullyQualifiedTypeName name="com.sun.corba.se.pept.transport.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.Connection"/>
+    <fullyQualifiedTypeName name="java.sql.ResultSet"/>
+    <fullyQualifiedTypeName name="java.util.List"/>
+    <fullyQualifiedTypeName name="javax.swing.JOptionPane"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+    <fullyQualifiedTypeName name="org.hibernate.SessionFactory"/>
+    <fullyQualifiedTypeName name="org.hibernate.cfg.Configuration"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="Vetor"/>
+    <fullyQualifiedTypeName name="com.ney.struturadados.vetor.Vetor.Vetor"/>
+    <fullyQualifiedTypeName name="modelo.HibernateUtil"/>
+    <fullyQualifiedTypeName name="modelo.Usuario"/>
+    <fullyQualifiedTypeName name="modelo.Tarefa"/>
+    <fullyQualifiedTypeName name="persistencia.DAO"/>
+    <fullyQualifiedTypeName name="br.unip.cc.bnmc.JOrdenaNumberFrame"/>
+</qualifiedTypeNameHistroy>

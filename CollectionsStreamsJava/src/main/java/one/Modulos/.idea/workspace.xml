@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f482938-bff8-4ece-9db9-09b3617e695c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../.idea/modules/CollectionsStreamsJava.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collections/API/ExemploAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collections/Comparators/ExemploComparatorList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collections/Comparators/ExemploComparators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collections/Comparators/ExemploReversoComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collections/Exercicios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collections/List/ExemploList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collections/List/ExemploMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collections/List/ExemploTreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collections/List/ExemploVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collections/Optionals/ExemploOptionalInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collections/Optionals/ExemploOptionalPrimitivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collections/Optionals/ExemploOptionals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collections/Queue/ExemploQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collections/Set/ExemploLinkedHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collections/Set/ExemploSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Collections/Set/ExemploTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturaDeDados/ExemploMatriz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturaDeDados/ExemploRegistro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturaDeDados/ExemploVetor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturaDeDados/ExemploVetorTabela.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../EstruturaDeDados/SubRegistro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaAvancado/ExemploDeclarativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaAvancado/ExemploFuncoesPuras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaAvancado/ExemploImutabilidade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaAvancado/ExemploParadigmaFuncional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExemploAltaOrdemMelhorado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules/Modulos.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JigSaw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/operacao/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/operacao/Operacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/operacao/interno/DivHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/operacao/interno/MultHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/operacao/interno/SubHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/operacao/interno/SumHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula1/Aula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula1/ComposicaoDeFuncoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula1/FatorialMemoization.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula1/FatorialRecursivo/FatorialRecursivo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula1/FatorialRecursivo/FatorialTailCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula1/Funcao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula1/FuncaoComClasseAnonima.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula1/FuncaoComLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula1/Funcional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula1/FuncoesPuras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula1/Imperativo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula1/Imutabilidade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula2/Consumidores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula2/FuncaoAltaOrdem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula2/Funcoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula2/Iteracoes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula2/Predicados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula2/Suplidores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula3/FutureExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula3/ParallelStreamExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula3/ThreadExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/.idea/modules/digitalInnovation.util.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/.idea/modules/digitalInovation.one.main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/aula4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInnovation.util/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInnovation.util/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInnovation.util/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInnovation.util/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInnovation.util/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInnovation.util/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInnovation.util/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInnovation.util/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInnovation.util/src/main/util/JigSaw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInnovation.util/src/main/util/operacao/Calculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInnovation.util/src/main/util/operacao/Operacao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInnovation.util/src/main/util/operacao/interno/DivHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInnovation.util/src/main/util/operacao/interno/MultHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInnovation.util/src/main/util/operacao/interno/SubHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInnovation.util/src/main/util/operacao/interno/SumHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInovation.one.main/.gradle/6.7/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInovation.one.main/.gradle/6.7/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInovation.one.main/.gradle/6.7/fileChanges/last-build.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInovation.one.main/.gradle/6.7/fileHashes/fileHashes.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInovation.one.main/.gradle/6.7/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInovation.one.main/.gradle/6.7/javaCompile/javaCompile.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInovation.one.main/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInovation.one.main/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInovation.one.main/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInovation.one.main/.gradle/configuration-cache/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInovation.one.main/.gradle/vcs-1/gc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInovation.one.main/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInovation.one.main/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInovation.one.main/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInovation.one.main/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInovation.one.main/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInovation.one.main/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInovation.one.main/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula4/digitalInovation.one.main/src/main/java/Runner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula5/InferenciaExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula6/ClientHttpExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula6/CollectionExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula6/InferenciaLambda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula6/StringIsBlankExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula6/StringLinesExemplo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../aula6/StringRepeat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../Teste/.idea/modules/Teste.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../Teste/src/main/java/MinhaPrimeiraClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../java-avancado-master/java-funcional.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../../../java_basic_to_advanced" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../aula_html5_css3" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../../../aula_html5_css3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../../../digital-innovation-one" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
+  <component name="ProjectId" id="1mvrDYPk3opsm89sdzELaJQQAQQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java" />
+  </component>
+  <component name="RunManager">
+    <configuration name="JigSaw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JigSaw" />
+      <module name="Modulos.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JigSaw" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f482938-bff8-4ece-9db9-09b3617e695c" name="Default Changelist" comment="" />
+      <created>1610384791572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610384791572</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
